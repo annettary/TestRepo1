@@ -9,6 +9,7 @@ public class randomProcessor {
              numbers[i] = random.nextInt(100);
          }
 
+         
          for (int n : numbers) {
              System.out.print(n + " ");
          }
