@@ -1,3 +1,5 @@
+
+
 import java.util.Random;
 
 public class randomProcessor {
@@ -23,6 +25,10 @@ public class randomProcessor {
          }
     }
 }
+
+
+    
+ // to do move to utils
    private static boolean isEven(int n) {
     return(n % 2 == 0);
    }
