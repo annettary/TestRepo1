@@ -1,4 +1,9 @@
 version "1.0"
 
 build {
+  
+}
+
+buildRepositories {
+  //todo fill out
 }
